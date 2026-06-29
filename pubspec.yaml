@@ -1,0 +1,46 @@
+name: hamster_havoc
+description: "Hamster Havoc - Side-scrolling ridge runner game"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.5.5
+  audioplayers: ^6.7.1
+  flutter_native_splash: ^2.4.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/json/
+    - assets/audio/
+
+flutter_native_splash:
+  image: assets/images/logo.png
+  color: "#050c14"
+  android: true
+  ios: true
+  android_gravity: center
+  ios_content_mode: center
+  fullscreen: true
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/images/logo.png
+  adaptive_icon_background: "#050c14"
+  adaptive_icon_foreground: assets/images/logo.png
+  remove_alpha_ios: true

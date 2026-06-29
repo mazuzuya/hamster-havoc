@@ -1,0 +1,57 @@
+{
+  "startSpeed": {
+    "type": "number",
+    "value": 370,
+    "min": 260,
+    "max": 560,
+    "step": 10,
+    "name": "Start Speed",
+    "description": "Initial ridge-runner speed in world units per second.",
+    "group": "gameplay",
+    "index": 1
+  },
+  "difficultyRamp": {
+    "type": "number",
+    "value": 0.23,
+    "min": 0.05,
+    "max": 0.6,
+    "step": 0.01,
+    "name": "Difficulty Ramp",
+    "description": "How quickly distance increases speed and spawn pressure.",
+    "group": "gameplay",
+    "index": 2
+  },
+  "spawnRate": {
+    "type": "number",
+    "value": 1,
+    "min": 0.6,
+    "max": 1.8,
+    "step": 0.05,
+    "name": "Spawn Rate",
+    "description": "Multiplier for pickups, enemies, crates, and hazards.",
+    "group": "gameplay",
+    "index": 3
+  },
+  "seedValue": {
+    "type": "number",
+    "value": 1,
+    "min": 1,
+    "max": 5,
+    "step": 1,
+    "name": "Seed Value",
+    "description": "Base sunflower seed currency gained per pickup.",
+    "group": "economy",
+    "index": 4
+  },
+  "effectsIntensity": {
+    "type": "number",
+    "value": 1,
+    "min": 0,
+    "max": 1.6,
+    "step": 0.1,
+    "name": "Effects Intensity",
+    "description": "Scales comic hit, pickup, and dash effects.",
+    "group": "visual",
+    "index": 5
+  }
+}

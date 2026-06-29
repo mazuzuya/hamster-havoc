@@ -1,0 +1,106 @@
+{
+  "image": "/generated-assets/terrain_texture_atlas-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "backyard_grass",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 67,
+        "y": 40,
+        "w": 329,
+        "h": 349
+      },
+      "anchor": {
+        "x": 232,
+        "y": 388
+      }
+    },
+    {
+      "name": "attic_planks",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 435,
+        "y": 40,
+        "w": 331,
+        "h": 349
+      },
+      "anchor": {
+        "x": 601,
+        "y": 388
+      }
+    },
+    {
+      "name": "cafe_table",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 802,
+        "y": 40,
+        "w": 330,
+        "h": 349
+      },
+      "anchor": {
+        "x": 967,
+        "y": 388
+      }
+    },
+    {
+      "name": "neon_slime",
+      "source": {
+        "x": 248,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 248,
+        "y": 426,
+        "w": 329,
+        "h": 350
+      },
+      "anchor": {
+        "x": 413,
+        "y": 775
+      }
+    },
+    {
+      "name": "factory_metal",
+      "source": {
+        "x": 632,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 616,
+        "y": 426,
+        "w": 332,
+        "h": 350
+      },
+      "anchor": {
+        "x": 782,
+        "y": 775
+      }
+    }
+  ]
+}

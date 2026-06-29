@@ -1,0 +1,18 @@
+{
+  "BACKYARD_BACKDROP": "/generated-assets/backyard_backdrop.webp",
+  "SKIN_ICON_ATLAS": "/generated-assets/skin_icon_atlas-transparent.webp",
+  "WEAPON_ICON_ATLAS": "/generated-assets/weapon_icon_atlas-transparent.webp",
+  "ENEMY_PROP_ATLAS": "/generated-assets/enemy_prop_atlas-transparent.webp",
+  "PLAYER_SPRITE_SHEET": "/generated-assets/player_sprite_sheet-transparent.webp",
+  "EFFECT_SHEET": "/generated-assets/effect_sheet-transparent.webp",
+  "ACTION_UI_ATLAS": "/generated-assets/action_ui_atlas-transparent.webp",
+  "TERRAIN_TEXTURE_ATLAS": "/generated-assets/terrain_texture_atlas-transparent.webp",
+  "ADVANCED_ENEMY_BOSS_ATLAS": "/generated-assets/advanced_enemy_boss_atlas-transparent.webp",
+  "ADVANCED_TERRAIN_TEXTURE_ATLAS": "/generated-assets/advanced_terrain_texture_atlas-transparent.webp",
+  "WEAPON_CUTOUT_ATLAS": "/generated-assets/weapon_cutout_atlas-transparent.webp",
+  "PLAYER_SKIN_BODY_ATLAS": "/generated-assets/player_skin_body_atlas-transparent.webp",
+  "SKIN_DEFEAT_SHEET_B": "/generated-assets/skin_defeat_sheet_b-transparent.webp",
+  "SKIN_DEFEAT_SHEET_A": "/generated-assets/skin_defeat_sheet_a-transparent.webp",
+  "BOSS_ANIMATION_SHEET_A": "/generated-assets/boss_animation_sheet_a-transparent.webp",
+  "BOSS_ANIMATION_SHEET_B": "/generated-assets/boss_animation_sheet_b-transparent.webp"
+}
